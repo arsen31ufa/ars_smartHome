@@ -6,14 +6,19 @@
 //
 
 import UIKit
+import FirebaseCore
+import Resolver
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        // Конфигурируем Firebase
+        // FirebaseApp.configure() // Временно отключаем, так как используем MockAuthService
+        
+        // Регистрируем все зависимости в Resolver
+        Resolver.registerAllServices()
+        
         return true
     }
 

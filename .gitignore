@@ -1,0 +1,48 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+*.xcuserdata
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+
+# macOS
+.DS_Store
+
+# SwiftPM
+.build/
+
+# User settings
+*.swp
+*.lock
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+Pods/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
+*.xcarchive
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# Other
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# AppCenter
+appcenter-pre-build.sh
+appcenter-post-clone.sh 

@@ -7,13 +7,12 @@
 
 import UIKit
 
+// Этот ViewController больше не используется, так как мы используем SceneDelegate и Координаторы.
+// Оставляем его пустым, чтобы проект собирался.
 class ViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
 
