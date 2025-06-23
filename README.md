@@ -20,16 +20,26 @@
 - DI через Resolver (только для сервисов)
 - Моковые сервисы для тестирования и быстрой разработки
 
+## Скриншоты
+Экран авторизации
+![telegram-cloud-photo-size-2-5388750275378016097-y](https://github.com/user-attachments/assets/d0130716-7618-45c9-9207-188507567fb7)
+Главный экран с устройствами
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/39592fa3-259c-4628-a1a1-896ff13c5cbb" />
+Экран устройства
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/dfe7b1d9-2ded-4f36-9ec7-e4b1ef8bf07b" />
+Экран со статистикой
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/2ff8f526-e5d5-46e5-8b0a-3a0f566c3f10" />
+
 
 ## Структура проекта
 
-Coordinators         // Координаторы навигации
-DI                   // DI-контейнер Resolver
-Models               // Модели данных (Device, User, Telemetry)
-Modules              // Модули (экраны): Auth, Home, DeviceDetails, Settings, Statistics
-Services             // Сервисы (MockAuthService, MockDeviceService и др.)
-Views                // View/Cell 
-Common               // Константы, утилиты
+- Coordinators         // Координаторы навигации
+- DI                   // DI-контейнер Resolver
+- Models               // Модели данных (Device, User, Telemetry)
+- Modules              // Модули (экраны): Auth, Home, DeviceDetails, Settings, Statistics
+- Services             // Сервисы (MockAuthService, MockDeviceService и др.)
+- Views                // View/Cell
+- Common               // Константы, утилиты
 
 ## Как запустить
 1. Откройте проект в **Xcode 15+**.
