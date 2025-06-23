@@ -21,13 +21,13 @@
 - Моковые сервисы для тестирования и быстрой разработки
 
 ## Скриншоты
-<img width="300" alt="Экран авторизации" src="https://github.com/user-attachments/assets/7871dfae-42de-47ce-87bd-a64a8be7507c"/>
+<img width="350" alt="Экран авторизации" src="https://github.com/user-attachments/assets/7871dfae-42de-47ce-87bd-a64a8be7507c"/>
 
-<img width="300" alt="Главный экран с устройствами" src="https://github.com/user-attachments/assets/39592fa3-259c-4628-a1a1-896ff13c5cbb" />
+<img width="350" alt="Главный экран с устройствами" src="https://github.com/user-attachments/assets/39592fa3-259c-4628-a1a1-896ff13c5cbb" />
 
-<img width="300" alt="Экран устройства" src="https://github.com/user-attachments/assets/dfe7b1d9-2ded-4f36-9ec7-e4b1ef8bf07b" />
+<img width="350" alt="Экран устройства" src="https://github.com/user-attachments/assets/dfe7b1d9-2ded-4f36-9ec7-e4b1ef8bf07b" />
 
-<img width="300" alt="Экран со статистикой" src="https://github.com/user-attachments/assets/2ff8f526-e5d5-46e5-8b0a-3a0f566c3f10" />
+<img width="350" alt="Экран со статистикой" src="https://github.com/user-attachments/assets/2ff8f526-e5d5-46e5-8b0a-3a0f566c3f10" />
 
 
 ## Структура проекта
